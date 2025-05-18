@@ -12,7 +12,7 @@
 
 
 ## About Me
-- 🌍 **Location:** Add your city, country here.
+- 🌍 **Location:** Portugal
 - 💼 **Current Role:** Data Scientist at [SymphonyAI](https://www.symphonyai.com)
 - 🔗 **[LinkedIn](www.linkedin.com/in/gonçalo-lopes-13105b205)**
 
